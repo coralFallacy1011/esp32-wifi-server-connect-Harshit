@@ -3,8 +3,8 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 
-const char* ssid = "IOTLAB";
-const char* password = "IOTLAB0987";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 const char* serverName = "http://192.168.0.172:4000/api/test";
 
